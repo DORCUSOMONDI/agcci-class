@@ -1,2 +1,2 @@
 # agcci-class
-my first repository
+MY AGCCI CODING experience was
